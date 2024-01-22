@@ -5,9 +5,11 @@ This project aims at analyzing lipstick sales on a popular online shopping platf
 ---
 
 ## 1. Data Gathering and preprocessing
-Data is gathered using ExportComments.com and a Shopee webcrawler developed by. Then, data is roughly cleaned and compiled using Pandas.
+Data is gathered using ExportComments.com and a Shopee webcrawler developed by. 
 ### Links:
 - EXPORT COMMENTS:
   https://exportcomments.com/
 - Shopee crawler:
   https
+
+Then, data is roughly cleaned and compiled using Pandas. Irrelevant features and duplicates are removed, columns are renamed and new features like "Product name" and "Duplicated" are added.
