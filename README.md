@@ -9,7 +9,5 @@ Data is gathered using ExportComments.com and a Shopee webcrawler developed by.
 ### Links:
 - EXPORT COMMENTS:
   https://exportcomments.com/
-- Shopee crawler:
-  https
 
-Then, data is roughly cleaned and compiled using Pandas. Irrelevant features and duplicates are removed, columns are renamed and new features like "Product name" and "Duplicated" are added.
+Then, data is roughly cleaned and compiled using Pandas. Irrelevant features like index column, image and video URLs are dropped, row duplicates are removed, columns are renamed and new features like "Product name" and "Duplicated" are added.
