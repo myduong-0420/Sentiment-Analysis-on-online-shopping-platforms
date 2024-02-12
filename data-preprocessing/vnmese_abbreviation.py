@@ -100,7 +100,6 @@ common_typos = {"li": "lì",
                 "nun": "luôn",
                 "oi": "ơi",
                 "sài": "xài",
-                "sơn": "son",
                 "tot": "tốt",
                 "vở":"vỏ",
                 "xểu": "xỉu"}
@@ -108,4 +107,5 @@ common_typos = {"li": "lì",
 synonyms = {"mỏ": "môi",
             "mồm": "môi",
             "mõm": "môi",
-            "mỏ hỗn": "môi"}
+            "mỏ hỗn": "môi",
+            "sơn": "son"}
