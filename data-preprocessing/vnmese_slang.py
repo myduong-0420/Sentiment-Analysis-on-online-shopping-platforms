@@ -107,5 +107,4 @@ common_typos = {"li": "lì",
 synonyms = {"mỏ": "môi",
             "mồm": "môi",
             "mõm": "môi",
-            "mỏ hỗn": "môi",
             "sơn": "son"}
