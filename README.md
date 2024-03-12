@@ -1,6 +1,6 @@
 # Sentiment-Analysis-on-online-shopping-platforms
 
-This project aims at analyzing lipstick sales on a popular online shopping platform in Vietnam called Shopee using Spam Classification and Sentiment Analysis with #(will work on this)VinaLLaMA# - a Vietnamese Large Language Model.
+This project aims at analyzing lipstick sales on a popular online shopping platform in Vietnam called Shopee using Spam Classification.
 
 ---
 
