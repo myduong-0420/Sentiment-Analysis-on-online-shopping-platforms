@@ -20,3 +20,5 @@ Data is roughly cleaned and compiled twice using Pandas and Matplotlib.
   + Word_count: the number of syllables (tiếng) in a sentence. Sentences with fewer than 4 syllables are highly likely to be spam, because the short length is simply not enough to provide constructive information.
   + Char/Wcount: the number of characters / word count. The character length of Vietnamese syllable typically ranges from 2 to 6, and the maximum length is 7. Sentences with Char/Wcount feature > 5 or < 3.5 are highly likely to be spam. The range (3.5, 5) already accounts for the white space addition.
 - Rows with very apparent spam characteristics mentioned (abnormal word counts or Char/Wcount proportion) are removed.
+
+## 2. Data Visualization
