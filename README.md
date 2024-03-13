@@ -22,3 +22,4 @@ Data is roughly cleaned and compiled twice using Pandas and Matplotlib.
 - Rows with very apparent spam characteristics mentioned (abnormal word counts or Char/Wcount proportion) are removed.
 
 ## 2. Data Visualization
+Using Pandas and Matplotlib, I was able to extract the temporal patterns of spam reviewers.
